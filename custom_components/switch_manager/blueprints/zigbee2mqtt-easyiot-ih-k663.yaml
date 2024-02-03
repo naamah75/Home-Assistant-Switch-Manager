@@ -7,8 +7,8 @@ buttons:
       - title: press
         conditions:
           - key: payload
-            value: single
+            value: 1_single
       - title: press 2x
         conditions:
           - key: payload
-            value: double
+            value: 2_double
